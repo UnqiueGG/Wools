@@ -26,17 +26,17 @@ url = "https://h5api.gumingnc.com/newton-buyer/newton/buyer/ump/autumn/milk/acti
 tokens = [
     {
         "token": {
-            "token": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJHT09ETUUuQ09NIiwiYXVkIjpbImFwcGxldCJdLCJpYXQiOjE3MzMyODE0MTIsImp0aSI6ImRhN2YyNDk2LTk3OGYtNGMyYi1hYWYzLWQ5NzE2ODUxYTUwMiIsImVjcF9waG9uZSI6ImxqNFpDcGFDb2MyaExmYzNuMzVjV2c9PSIsImNyZWF0ZV90aW1lc3RhbXAiOjE3MTY3MzAzNzcwMDAsImxvZ2luVHlwZSI6IjQxIiwib3Blbl9pZCI6Im9NekF3NVlXOWNwLWlZVWY1WHlDTzgyTTJ1bUEiLCJuaWNrbmFtZSI6IueIseS7gOS5iOmDveacieeahOWkp-iMl-aYnyIsInVzZXJJZCI6IjIwMDAwMDAwMDAxMTMzMzI0NDgiLCJ2ZXJzaW9uIjoiMS4wIiwiZXhwIjoxNzM0MjkzMDEyLCJxdWV1ZV90b2tlbiI6IjIwMjQxMjA0MTEwNDQ4LTIwMjQxMjA0MTEwNDQ4LTMyOTU5MSJ9.aclTAu_aacS6Wm213LKUyuhiv9ldY8nnkPMiz7RbIDtUK5gxww5_b3cDuLkQlGqZGToN_C57LcbJzReduedIoofdcPXlq-sMHWiR9q-jZQiHxaKQ2g8tXnNOVujpNo_EVzWEpWudvMPWH9c21VoxJzWYFgDM5vxBFVSTgTTs_Np_lykCzUI3eYKrQ7iw881l6V9RQIFdL8sQXwSJtvk71IZO7Wm66hSMvNK_5OdJg_8Aw_XAlFacvDhH_OBd2i6yi_vrsx4rXmolagw3IkXDJZXT54astTiWydiE53siM2eetZgulzaaJPA4dl1A_b_MLgbIy9_x_OqICC_5IXZ-CA",
-            "ttoken": "mMPHn1733281422wORLtLNM755"
+            "token": "Bearer开头的",
+            "ttoken": "xxxxxxxxx"
         },
-        "remark": "0570"
+        "remark": "备注1"
     },
     {
         "token": {
-            "token": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJHT09ETUUuQ09NIiwiYXVkIjpbImFwcGxldCJdLCJpYXQiOjE3MzI4NTE5NDUsImp0aSI6IjA0MjczNmZjLWYwMTctNGU3OC1iMTIxLTYxNGM4YTM3YWNhYiIsImVjcF9waG9uZSI6ImlKNTdtbUdBT29BWTliakN5RjZCYWc9PSIsImNyZWF0ZV90aW1lc3RhbXAiOjE3MDQ4MDIwNzkwMDAsImxvZ2luVHlwZSI6IjQxIiwib3Blbl9pZCI6Im9NekF3NVczc21iU1dYTkl3c0VTbGJrZXNzNVEiLCJuaWNrbmFtZSI6IueIseWPpOiMl-WltuiMtueahOWkp-iMl-aYnyIsInVzZXJJZCI6IjIwMDAwMDAwMDAwODM0ODczODkiLCJ2ZXJzaW9uIjoiMS4wIiwiZXhwIjoxNzMzODYzNTQ1LCJxdWV1ZV90b2tlbiI6IjIwMjQxMjA0MTEwNjQxLTIwMjQxMjA0MTEwNjQxLTMzNjY4MyJ9.XQtiF3B9QHseATCzNY-Msts9GQ5u-4hdovqjCwZTbNxAsQEARlfLGgwyFJ-vHFvuZLz4IXHD8E1lucgXP-dxShlVrOy1nHoDvKgDG6EoBMlzrOoDtniz_HV8etSloGS7i4-GytuU9P3HfcQ5odTMSeSW42u02Cyz_hWSGFlKs1E8BVj_M0zqCRgSDKTulqpiHpFtn2GrzI1tLE3EASq9KRcczgrDIlSxOb533wopsXGS9LPP7KcPrFaXdg-VZ0D_KMsbo4xLPcd6L84meS8n8rXHFWbfgrGpfvsquOWEof61FWAZkOnPvHb2QyDVjxPSpENYYZPLl8-NYo5iRXa0pw",
-            "ttoken": "qMPH31733281626lJrtLN6Cxk7"
+            "token": "xxxxx",
+            "ttoken": "xxxxx"
         },
-        "remark": "3167"
+        "remark": "备注2"
     }
 ]
 
